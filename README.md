@@ -9,7 +9,7 @@ Para ejecutar el proyecto siga los siguientes pasos:
 
 ## Descripcion de la API
 
-...escriba aqui
+Conecta con numbersapi a través de python y baja un fact.
 
 ---
 
