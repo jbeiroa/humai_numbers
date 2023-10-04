@@ -11,7 +11,6 @@ def get_number_fact(number) -> str:
 
     Args:
         number (int): a number to get information
-        information (_type_): _description_
 
     Returns:
         str: a fact of the requested number
